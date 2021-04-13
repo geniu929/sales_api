@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "jwtSecret": "secret token pour toto",
+  "mongoUri": "mongodb+srv://eugen:azerty123456@cluster0.aq7pr.mongodb.net/proj-stagstae?retryWrites=true&w=majority"
+}
